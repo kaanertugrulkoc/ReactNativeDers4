@@ -7,6 +7,6 @@ hedef 65-70 kg
 
 *******
 
-Spor Fitnes Sağlıklı yaşam için günlük aktivitelerinizi su ve kalori hesaplaması yapabilien dolabınızda bulunan malzemelerden günlük ihtiyanıcız olan kalori ve protein kadar ne ve nasıl yemek yapılabileceği ile alakalı bilgiler sunan bir yazılım tasarlanmakta olup çok yakında mobil mağazalarda....
+Spor Fitnes Sağlıklı yaşam için günlük aktivitelerinizi su ve kalori hesaplaması yapabilien dolabınızda bulunan malzemelerden günlük ihtiyanıcız olan kalori ve protein kadar hangi ve nasıl yemek yapılabileceği ile alakalı bilgiler sunan bir yazılım tasarlanmakta olup çok yakında mobil mağazalarda....
 
 ********
